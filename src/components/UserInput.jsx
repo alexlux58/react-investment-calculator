@@ -7,10 +7,10 @@ export const UserInput = ({
   expectedReturn,
   investmentDuration,
 }) => {
-  console.log("investmentAmount", investmentAmount);
-  console.log("annualInvestment", annualInvestment);
-  console.log("expectedReturn", expectedReturn);
-  console.log("investmentDuration", investmentDuration);
+  //   console.log("investmentAmount", investmentAmount);
+  //   console.log("annualInvestment", annualInvestment);
+  //   console.log("expectedReturn", expectedReturn);
+  //   console.log("investmentDuration", investmentDuration);
 
   return (
     <section id="user-input">
